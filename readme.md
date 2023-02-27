@@ -6,6 +6,10 @@ We use two models:
 - Signature Image Cleaning
 - Siamese signature verification
 
+![Overview - Signature cleaning](/support-images/signature_overview.png)
+![Overview - Signature verification](/support-images/signature_overview_verification.png)  
+
+
 I've used two notebooks published on Kaggle.
 
 # Prerequisites
